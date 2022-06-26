@@ -14,3 +14,4 @@ for i in range(n) :
 
 avg = avg / n
 print(format(avg, ".2f"))
+
