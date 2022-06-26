@@ -14,3 +14,4 @@ for i in range(t) :
             c = 1
 
     print(sum)
+
